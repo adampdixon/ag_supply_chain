@@ -1,0 +1,1 @@
+This is an analysis of a supply shed set of scenarios centered on Cedar Rapids, IA. Scenario 1 is business as usual with corn and soy landscape. Scenario 2 is a diverse farming landscape with corn, soy, and 5 other crops with livestock integrated. Economic, GHG, and capital flight from the scenario are analyzed with visuals produced.
